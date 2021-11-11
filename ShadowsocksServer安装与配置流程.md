@@ -161,7 +161,7 @@ chmod 755 /etc/systemd/system/shadowsocks.service
 systemctl enable shadowsocks
 systemctl start shadowsocks
 ```
-
+## 使用宝塔面板记得开放端口权限
 
 
 ----------------
